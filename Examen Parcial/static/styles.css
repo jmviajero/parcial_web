@@ -1,0 +1,20 @@
+
+
+.separar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: auto;
+  margin: auto;
+  border-bottom-left-radius: 25%;
+  border-bottom-right-radius: 25%;
+  background-color: rgb(95, 95, 95);
+  color: white;
+  align-items: center;
+  right: 600px;
+}
+
+.tit{
+  color: black,
+
+}
